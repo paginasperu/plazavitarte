@@ -69,7 +69,8 @@ h1 {
 
 .intro {
   margin: 1.75rem auto 0;
-  max-width: 28rem;
+  max-width: 42rem;
+  text-wrap: balance;
   font-size: clamp(1rem, 1.7vw, 1.3rem);
   line-height: 1.55;
   color: #f3eee8;
