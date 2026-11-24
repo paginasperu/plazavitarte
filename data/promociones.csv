@@ -1,0 +1,6 @@
+id,negocio_id,titulo,descripcion,condiciones,vigencia_hasta,precio_regular,precio_rebajado,categoria,tipo,banner
+1,1,DEMO FICTICIA - Prenda de temporada,Oferta ficticia para probar la ficha de promoción.,Contenido inventado; no representa una oferta real.,2027-12-31,100,80,Moda,Descuento,data/img/negocio-01.webp
+2,2,DEMO FICTICIA - Kit tecnológico,Oferta ficticia para probar precios y filtros.,Contenido inventado; no representa una oferta real.,2027-12-31,80,60,Tecnología,Descuento,data/img/negocio-02.webp
+3,3,DEMO FICTICIA - Menú de muestra,Promoción ficticia para la sección de comida.,Contenido inventado; no representa una oferta real.,2027-12-31,40,32,Comida,Descuento,data/img/negocio-03.webp
+4,4,DEMO FICTICIA - Sorteo de práctica,Sorteo inventado para probar el tipo de promoción.,Ejemplo ficticio; no es un sorteo real.,2027-12-31,,,Hogar,Sorteo,data/img/negocio-04.webp
+5,5,DEMO FICTICIA - Canje de prueba,Canje inventado para probar la vista correspondiente.,Ejemplo ficticio; no es una oferta real.,2027-12-31,,,Deportes,Canje,data/img/negocio-05.webp
